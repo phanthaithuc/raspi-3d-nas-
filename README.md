@@ -6,6 +6,7 @@ This repository contains configuration and scripts for managing a Raspberry Pi 4
 
 ## 📁 Folder Structure
 
+``` 
 raspi-3d-nas/
 ├── crowsnest/ # Crowsnest camera configuration
 │ └── crowsnest.conf
@@ -22,7 +23,7 @@ raspi-3d-nas/
 │ └── move_clips_to_nextcloud.sh
 ├── misc/ # Miscellaneous notes, diagrams, temp files
 └── README.md # This file
-
+```
 
 ---
 
